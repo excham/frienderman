@@ -1,0 +1,5 @@
+name: Frienderman
+version: 0.0.1
+main: net.excham.scs.frienderman.Frienderman
+description: Makes Endermen nice :)
+api-version: 1.13

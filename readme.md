@@ -1,0 +1,2 @@
+# frienderman
+## makes endermen friendly
